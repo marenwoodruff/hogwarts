@@ -1,0 +1,32 @@
+// Place all the styles related to the houses controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "bootstrap";
+
+body {
+	background-color: black;
+	/*font-family: ;*/
+}
+
+img {
+	height: 400px;
+	width: 500px;
+	margin-top: 10px;
+}
+
+.students {
+	position: absolute;
+	right: 350px;
+	bottom: 355px;
+}
+
+#harry {
+	position: absolute;
+	top: 80px;
+	right: 60px;
+}
+
+p {
+	color: white;
+}
